@@ -1,0 +1,31 @@
+{
+  "name": "template-base",
+  "description": "Plantilla base para creación de temas web en Kunilab",
+  "version": "0.1.0",
+  "main": "GulpFile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-watch": "^4.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alexsegen@gitlab.com/kunilab/template-base.git"
+  },
+  "keywords": [
+    "template",
+    "kunilab",
+    "base"
+  ],
+  "author": "Kunilab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/kunilab/template-base/issues"
+  },
+  "homepage": "https://gitlab.com/kunilab/template-base#README"
+}
